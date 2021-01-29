@@ -1,5 +1,5 @@
 id=3414
-Badge F Full X
+ปีีย F XX
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

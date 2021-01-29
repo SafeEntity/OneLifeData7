@@ -1,5 +1,5 @@
 id=2826
-Bowl of Fermented Tomato Seed Pulp# +contFoodDish
+一碗发酵的番茄果肉种子
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

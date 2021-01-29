@@ -1,5 +1,5 @@
 id=1575
-North Track End with Cart#built
+北轨道终点与矿车# 建造
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

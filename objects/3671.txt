@@ -1,5 +1,5 @@
 id=3671
-Sealed Raw Sugar Bottle
+ÃÜ·âµÄÒ»Æ¿´ÖÖÆÌÇ
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

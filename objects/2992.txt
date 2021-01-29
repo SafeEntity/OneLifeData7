@@ -1,5 +1,5 @@
 id=2992
-Property Fence Twigs# just set down
+财产围栏组件#刚放下
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

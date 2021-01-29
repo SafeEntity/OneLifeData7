@@ -1,5 +1,5 @@
 id=3453
-Yellow Bowler Hat with Feather# justDyed
+ÅåÓğÃ«»ÆÉ«Ô²¶¥ÀñÃ±#¸ÕÈ¾É«
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

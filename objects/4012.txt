@@ -1,5 +1,5 @@
 id=4012
-Fetching Schnauser
+µð×Å¶º¹·°ôµÄÑ©ÄÉÈð
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

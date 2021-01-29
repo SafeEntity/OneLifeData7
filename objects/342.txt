@@ -1,5 +1,5 @@
 id=342
-Chopped Tree - Hungry Work#Small,wood2 +hungryWork10
+砍倒的树与木柴# 小的,木柴2
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

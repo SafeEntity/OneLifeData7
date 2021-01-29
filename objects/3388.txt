@@ -1,5 +1,5 @@
 id=3388
-Carved Turkey on Plate# just removed
+盘子上的切好的火鸡#刚移除
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

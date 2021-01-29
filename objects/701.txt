@@ -1,5 +1,5 @@
 id=701
-Carrot Crown with Carrot
+ºúÂÜ²·Íõ¹ÚºÍºúÂÜ²·
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

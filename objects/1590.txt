@@ -1,5 +1,5 @@
 id=1590
-Track Cart#moving West left cross
+矿车# 向西离开十字路
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

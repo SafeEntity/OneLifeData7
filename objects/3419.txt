@@ -1,5 +1,5 @@
 id=3419
-Dead Goose On Stump# just landed
+树桩上的鹅尸体#刚放
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

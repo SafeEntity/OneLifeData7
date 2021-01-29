@@ -1,5 +1,5 @@
 id=1181
-Bowl of Soaked Beans# +contFoodDish
+Ò»Íë½þÅÝ¹ýµÄ¶¹
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

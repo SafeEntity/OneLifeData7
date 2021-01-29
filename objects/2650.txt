@@ -1,5 +1,5 @@
 id=2650
-Partial AM Transmitter# 3
+不完整调幅发射机# 3
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

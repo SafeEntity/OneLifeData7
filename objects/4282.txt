@@ -1,5 +1,5 @@
 id=4282
-Peppercorn Bottle# +contFoodDish
+Ò»Æ¿ºú½·# Ê³Îï²Û
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

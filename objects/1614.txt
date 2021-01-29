@@ -1,5 +1,5 @@
 id=1614
-Bowl of Cooked Wood Shavings
+Ò»ÍëÖó¹ıµÄÄ¾Ğ¼
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
 id=122
-Tule Stumps
+¸î¹ýµÄÂ«Î­´Ô
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

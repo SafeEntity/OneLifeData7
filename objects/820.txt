@@ -1,5 +1,5 @@
 id=820
-Stable Bell Tower Base#2
+ÎÈ¶¨µÄÖÓËş»ù×ù#2²ã
 containable=0
 containSize=1,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

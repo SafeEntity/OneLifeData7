@@ -1,5 +1,5 @@
 id=2819
-Plate of Cleaned Shrimp# +contFoodDish
+盘子上的干净虾
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
 id=3973
-Pile of Alum
+Ò»¶ÑÃ÷·¯
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

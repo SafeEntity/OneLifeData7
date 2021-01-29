@@ -1,5 +1,5 @@
 id=4125
-Dumped Palm Kernels# just dumped
+µ¹³öµÄ×ØéµÈÊ#¸Õµ¹³ö
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

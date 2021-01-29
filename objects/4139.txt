@@ -1,5 +1,5 @@
 id=4139
-Scrap Drive Assembly# +becomeUse16
+废弃柴油机驱动总成# 成为用途16
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

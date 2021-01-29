@@ -1,5 +1,5 @@
 id=4138
-Scrap Crank Assembly# +becomeUse13
+废弃柴油机曲柄总成# 成为用途13
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

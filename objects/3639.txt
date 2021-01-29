@@ -1,5 +1,5 @@
 id=3639
-Black Dye Bottle with Funnel# insterted
+带漏斗的一瓶黑色染料#插入
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

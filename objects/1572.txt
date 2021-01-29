@@ -1,5 +1,5 @@
 id=1572
-Track Cart# moving South left end
+矿车# 向南离开终点
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

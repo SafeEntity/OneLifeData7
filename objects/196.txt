@@ -1,5 +1,5 @@
 id=196
-Rabbit Hole#growing
+兔子洞# 成长中
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
 id=1055
-Dry White Rose Bush
+¸ÉÔïµÄ°×Ãµ¹å¹àÄ¾´Ô
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

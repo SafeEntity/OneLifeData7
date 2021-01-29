@@ -1,5 +1,5 @@
 id=3964
-Unpowered Pump Head# diesel removed
+无动力的泵头#移除柴油机
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

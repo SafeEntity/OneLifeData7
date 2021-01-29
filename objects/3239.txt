@@ -1,5 +1,5 @@
 id=3239
-Northward Gradient Dry Tarry Spot
+枯竭的北方梯度油井
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

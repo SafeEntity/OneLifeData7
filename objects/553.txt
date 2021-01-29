@@ -1,5 +1,5 @@
 id=553
-Auto-Orienting Fence Holes# groundOnly
+东西方向栅栏坑# 仅限地面
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

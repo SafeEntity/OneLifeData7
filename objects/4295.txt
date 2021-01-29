@@ -1,5 +1,5 @@
 id=4295
-Pickle Crock with Peppercorns
+Ò»¹Þ»Æ¹Ï£¬Ëâ£¬ÝªÂÜºÍºú½·Á£
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

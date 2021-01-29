@@ -1,5 +1,5 @@
 id=3093
-Renewed Property Fence# +tapoutTrigger,1,1,1,1 +horizontalH
+翻新的财产围栏
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

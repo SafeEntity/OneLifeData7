@@ -1,5 +1,5 @@
 id=3177
-Baited Snared Rabbit Hole#hiding
+放了诱饵陷阱的兔子洞
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

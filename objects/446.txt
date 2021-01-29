@@ -1,5 +1,5 @@
 id=446
-Hot Steel Froe Blade#flat rock
+ÈÈµÄ¸ÖÅü°å¸«ÈĞ# ±âÊ¯
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

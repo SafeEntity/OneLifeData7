@@ -1,5 +1,5 @@
 id=4168
-South West Track with Cart# moving West reversed
+西南方向轨道与矿车# 向西 反向
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

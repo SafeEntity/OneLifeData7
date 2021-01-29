@@ -1,5 +1,5 @@
 id=3755
-Turkey Broth Bottle# just poured
+Ò»Æ¿»ğ¼¦ÌÀ#¸Õ°Î³öÈû×Ó
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
 id=3387
-Empty Feast Table# 4
+¿ÕµÄÊ¢Ñç×À# 4
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

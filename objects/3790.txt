@@ -1,5 +1,5 @@
 id=3790
-North West Track with Cart# moving West
+西北方向轨道与矿车#向西
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

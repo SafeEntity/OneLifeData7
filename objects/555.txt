@@ -1,5 +1,5 @@
 id=555
-Free-Standing Corner Fence Holes# groundOnly
+四角栅栏坑# 仅限地面
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
 id=4031
-Stack of Steel Piston Blanks
+Ò»¶Ñ¸Ö»îÈûÃ«Å÷
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

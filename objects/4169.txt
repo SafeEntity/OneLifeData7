@@ -1,5 +1,5 @@
 id=4169
-North West Track with Cart# moving North reversed
+西北方向轨道与矿车# 向北 反向
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
 id=3297
-Charcoal Map with Mallet# &written +map +toolMallet
+标记地图和大锤
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

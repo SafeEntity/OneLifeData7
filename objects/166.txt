@@ -1,5 +1,5 @@
 id=166
-Rabbit Hole#peeking1,single
+兔子洞# 探头1,单只
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

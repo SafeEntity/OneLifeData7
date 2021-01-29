@@ -1,5 +1,5 @@
 id=661
-Stone Pile
+Ò»¶ÑÔ²Ê¯
 containable=0
 containSize=1,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

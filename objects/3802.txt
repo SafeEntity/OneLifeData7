@@ -1,5 +1,5 @@
 id=3802
-North South Track with Open Springy Door# +autoDefaultTrans
+开启的弹簧木门南北轨道
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

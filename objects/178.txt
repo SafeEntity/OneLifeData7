@@ -1,5 +1,5 @@
 id=178
-Rabbit Hole with Used Snare#single
+放置了陷阱的兔子洞# 单只
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

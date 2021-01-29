@@ -1,5 +1,5 @@
 id=834
-Bell Tower Structure# monumentStep
+钟塔结构# 最后一步
 containable=0
 containSize=1,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
 id=899
-Sheep Dung
+Ст·а
 containable=0
 containSize=1,vertSlotRot=-0.415000
 permanent=1,minPickupAge=3

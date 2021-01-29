@@ -1,5 +1,5 @@
 id=3358
-Glass of Wine# +alcohol1 +drink +emotEat_6_10 +contFoodDish
+Ò»±­ÆÏÌÑ¾Æ# µþÊ³½±Àø1
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

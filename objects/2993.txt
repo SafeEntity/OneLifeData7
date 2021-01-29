@@ -1,5 +1,5 @@
 id=2993
-Gathering Property Fence Twigs
+收集财产围栏组件
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

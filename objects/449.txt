@@ -1,5 +1,5 @@
 id=449
-Steel Froe Blade#flat rock
+¸ÖÅü°å¸«ÈĞ# ±âÊ¯
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

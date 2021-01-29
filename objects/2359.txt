@@ -1,5 +1,5 @@
 id=2359
-Newcomen Lathe
+Å¦¿ÆÃÅÕôÆû³µ´²
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

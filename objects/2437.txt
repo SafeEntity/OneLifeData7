@@ -1,5 +1,5 @@
 id=2437
-Pine Tree with Three Garlands
+松树与三条花环
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

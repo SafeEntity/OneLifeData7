@@ -1,5 +1,5 @@
 id=3262
-Dry Newcomen Pump with Torn Seal
+Ïğ½ºÈ¦ËğºÄµÄ¿İ½ßÅ¦¿ÆÃÅÕôÆû±Ã
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

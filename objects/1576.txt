@@ -1,5 +1,5 @@
 id=1576
-North Track End with Wound Cart
+北轨道终点与行驶的矿车
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

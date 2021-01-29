@@ -1,5 +1,5 @@
 id=2760
-Springy Open Wooden Door# installed vert +autoDefaultTrans +verticalOpenSpringyDoor
+开启的弹簧木门 #垂直
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

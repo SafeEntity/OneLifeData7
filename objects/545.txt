@@ -1,5 +1,5 @@
 id=545
-Domestic Lamb#just left parent
+家养羊羔# 刚离开大羊
 containable=0
 containSize=1,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

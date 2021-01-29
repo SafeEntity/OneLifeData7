@@ -1,5 +1,5 @@
 id=3003
-Unforged Sealed Electrum Crucible
+Î´ÈÛÁ¶µÄçúçê½ğÛáÛö
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

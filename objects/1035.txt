@@ -1,5 +1,5 @@
 id=1035
-Vigorous Pink Rose Bush
+Ã¯Ê¢µÄ·ÛÃµ¹å¹àÄ¾´Ô
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

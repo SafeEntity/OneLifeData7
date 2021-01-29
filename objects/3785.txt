@@ -1,5 +1,5 @@
 id=3785
-Track Cart#moving East left north east
+矿车#东北向东
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

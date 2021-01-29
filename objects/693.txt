@@ -1,5 +1,5 @@
 id=693
-Carrot Crown
+ºúÂÜ²·Íõ¹Ú
 containable=1
 containSize=1,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3

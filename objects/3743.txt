@@ -1,5 +1,5 @@
 id=3743
-Crushed Palm Kernel Bottle# just poured
+Ò»Æ¿Ëé×ØéµÈÊ#¸Õ°Î³öÈû×Ó
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

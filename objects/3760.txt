@@ -1,5 +1,5 @@
 id=3760
-North East Track
+东北方向轨道
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

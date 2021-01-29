@@ -1,5 +1,5 @@
 id=3236
-Southward Gradient Dry Spring
+干涸的南方梯度泉眼
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

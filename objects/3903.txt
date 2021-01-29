@@ -1,5 +1,5 @@
 id=3903
-Pile of Corn Ears
+Ò»¶ÑÓñÃ×Ëë
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

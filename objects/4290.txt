@@ -1,5 +1,5 @@
 id=4290
-Rubber Tree with Growing Pepper Vine
+橡胶树和生长中的胡椒藤蔓
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

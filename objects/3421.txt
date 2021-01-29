@@ -1,5 +1,5 @@
 id=3421
-Goose with Stump# just landed
+Ê÷×®ÉÏµÄ¶ì#¸Õ·Å
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

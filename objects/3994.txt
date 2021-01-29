@@ -1,5 +1,5 @@
 id=3994
-Fetching Collie# B
+叼着逗狗棒的科利犬# B
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

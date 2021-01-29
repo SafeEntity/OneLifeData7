@@ -1,5 +1,5 @@
 id=2894
-Bowl of Rust in Salt Water# +contLabDish
+一碗混合了铁锈的盐水
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

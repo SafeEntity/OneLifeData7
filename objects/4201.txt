@@ -1,5 +1,5 @@
 id=4201
-Adobe Rubble - Hungry Work# 3 +hungryWork10
+ÍÁÅ÷Ò¤Ëé¿é# ÏûºÄ¼¢¶ö10
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

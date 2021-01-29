@@ -1,5 +1,5 @@
 id=3789
-Track Cart#moving West left left north west
+矿车#西北向西
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

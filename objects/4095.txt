@@ -1,5 +1,5 @@
 id=4095
-Full Salt Water Pouch Pile
+一堆装满的盐水袋
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

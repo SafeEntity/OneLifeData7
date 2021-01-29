@@ -1,5 +1,5 @@
 id=643
-Dead Grizzly Bear#0
+зиамЪЌЬх# 0М§
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

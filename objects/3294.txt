@@ -1,5 +1,5 @@
 id=3294
-Way Stone with Chisel# justMade &written +map
+路标石和凿子
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

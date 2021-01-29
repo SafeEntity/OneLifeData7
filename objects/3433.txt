@@ -1,5 +1,5 @@
 id=3433
-Red Bowler Hat with Feather
+ÅåÓğÃ«Ãµ¹åºìÔ²¶¥ÀñÃ±
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

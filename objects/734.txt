@@ -1,5 +1,5 @@
 id=734
-Simmering Rose Madder Dye
+Öó·ĞµÄÃµ¹åºìÈ¾ÁÏ
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

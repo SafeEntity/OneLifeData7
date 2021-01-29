@@ -1,5 +1,5 @@
 id=586
-Wool Booty
+ÑòÃ«Ð¬
 containable=1
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

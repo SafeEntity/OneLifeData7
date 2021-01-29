@@ -1,5 +1,5 @@
 id=4275
-Rubber Tree# vine removed
+Ïğ½ºÊ÷#¸Õ¸ÕÒÆ³ıÌÙÂû
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

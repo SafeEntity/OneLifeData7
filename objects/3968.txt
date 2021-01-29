@@ -1,5 +1,5 @@
 id=3968
-Box of Scrap Steel
+Ò»ºÐ·Ï¸Ö
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
 id=1179
-Bowl of Cleaned Dried Beans
+Ò»Íë¸É¾»µÄ¶¹
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

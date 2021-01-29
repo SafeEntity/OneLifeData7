@@ -1,5 +1,5 @@
 id=540
-Mouflon Lamb#rope
+ÅÌÑòÑò¸á# Éþ×Ó
 containable=0
 containSize=1,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

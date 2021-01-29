@@ -1,5 +1,5 @@
 id=3062
-Single Track Kit# just dug
+单轨道组件# 刚挖出
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

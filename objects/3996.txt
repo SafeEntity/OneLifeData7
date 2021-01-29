@@ -1,5 +1,5 @@
 id=3996
-Fetching Pit Bull
+叼着逗狗棒的比特犬
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

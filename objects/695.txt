@@ -1,5 +1,5 @@
 id=695
-Wolf Crown
+ÀÇÍõ¹Ú
 containable=1
 containSize=1,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3

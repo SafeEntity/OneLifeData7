@@ -1,5 +1,5 @@
 id=3303
-Way Stone with Removal Notice# &written +map
+移除工作中笔记的路标石
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

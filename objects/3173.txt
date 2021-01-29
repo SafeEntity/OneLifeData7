@@ -1,5 +1,5 @@
 id=3173
-Wet Kerosene Newcomen Pump# burner added high
+湿的燃油纽科门蒸汽泵#刚刚加入燃烧器
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

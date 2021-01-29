@@ -1,5 +1,5 @@
 id=3423
-Ice Hole#penguin in
+±ù¶´#Æó¶ì½øÈë
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

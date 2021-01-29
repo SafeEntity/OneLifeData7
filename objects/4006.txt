@@ -1,5 +1,5 @@
 id=4006
-Fetching Airedale# B
+µð×Å¶º¹·°ôµÄ°¬¶û¹ÈÈ®# B
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

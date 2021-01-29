@@ -1,5 +1,5 @@
 id=4160
-East West Track with Cart#movingWest reversed
+东西向矿车与轨道# 向西 反向
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

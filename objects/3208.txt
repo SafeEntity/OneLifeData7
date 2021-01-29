@@ -1,5 +1,5 @@
 id=3208
-Westward Gradient Dry Tarry Spot
+枯竭的西方梯度油井
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

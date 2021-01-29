@@ -1,5 +1,5 @@
 id=698
-Crown Blank with Carrot
+Íõ¹ÚÅ÷ºÍºúÂÜ²·
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

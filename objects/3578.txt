@@ -1,5 +1,5 @@
 id=3578
-Blue Wall Shelf with Slot Notches# +causeAutoOrient +noBackAccess
+蓝色未完成带槽墙架
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
 id=3333
-Wet Pruned Cabernet Sauvignon Plant
+ÊªÈóµÄĞŞ¼ô¹ıµÄÆÏÌÑÖ²Öê
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

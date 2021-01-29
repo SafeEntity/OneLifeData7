@@ -1,5 +1,5 @@
 id=3265
-Dry Kerosene Newcomen Pump with Torn Seal
+Ïğ½ºÈ¦ËğºÄµÄ¿İ½ßÈ¼ÓÍÅ¦¿ÆÃÅÕôÆû±Ã
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

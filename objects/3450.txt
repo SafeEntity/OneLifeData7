@@ -1,5 +1,5 @@
 id=3450
-Dye-Ready Top Hat with Feather
+准备染色的佩羽毛礼帽
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

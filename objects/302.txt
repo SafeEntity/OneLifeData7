@@ -1,5 +1,5 @@
 id=302
-Charcoal#1
+Ä¾Ì¿# 1¸ö
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

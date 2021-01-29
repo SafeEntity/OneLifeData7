@@ -1,5 +1,5 @@
 id=185
-Skewered Rabbit
+串起来的兔子
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

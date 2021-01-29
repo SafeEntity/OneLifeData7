@@ -1,5 +1,5 @@
 id=3132
-Running Diesel Mining Pick#with Iron
+运行中的柴油矿井#有铁
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

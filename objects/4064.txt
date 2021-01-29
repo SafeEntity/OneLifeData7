@@ -1,5 +1,5 @@
 id=4064
-Pile of Yew Shafts
+Ò»¶ÑÉ¼Ä¾Öá
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

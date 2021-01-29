@@ -1,5 +1,5 @@
 id=3191
-Eastward Gradient Dry Spring
+干涸的东方梯度温泉
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

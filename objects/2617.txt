@@ -1,5 +1,5 @@
 id=2617
-Partial Marconi Receiver# 4
+不完整无线电报接收器# 4
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

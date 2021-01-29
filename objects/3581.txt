@@ -1,5 +1,5 @@
 id=3581
-Blue Wall Slot Shelf# +causeAutoOrient +noBackAccess
+À¶É«´ø²ÛÇ½¼Ü
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

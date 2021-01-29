@@ -1,5 +1,5 @@
 id=3193
-Tutorial Stone# tutorial 1203
+ΩÃ≥Ã Ø# 1203
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

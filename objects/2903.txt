@@ -1,5 +1,5 @@
 id=2903
-@ Dyed Green Item Pattern
+@绿色的东西
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

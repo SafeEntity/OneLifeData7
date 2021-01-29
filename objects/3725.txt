@@ -1,5 +1,5 @@
 id=3725
-Sealed Niter Solution Bottle
+ÃÜ·âµÄÒ»Æ¿ÏõÊ¯ÈÜÒº
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

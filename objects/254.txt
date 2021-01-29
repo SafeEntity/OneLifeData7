@@ -1,5 +1,5 @@
 id=254
-Bowl of Rabbit
+Ò»ÍëÍÃÈâ
 containable=1
 containSize=2,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
 id=1026
-Wild Rose Seed# white
+Ò°Ãµ¹åÖÖ×Ó# °×É«
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

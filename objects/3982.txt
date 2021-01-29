@@ -1,5 +1,5 @@
 id=3982
-Stack of Hubbard Squash
+Ò»¶ÑËñ¹Ï
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

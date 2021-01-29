@@ -1,5 +1,5 @@
 id=4165
-Cross Track with Cart# moving South reversed
+十字轨道与矿车# 向南 反向
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

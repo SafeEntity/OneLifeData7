@@ -1,5 +1,5 @@
 id=4008
-Fetching Poodle
+µð×Å¶º¹·°ôµÄ¹ó±öÈ®
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

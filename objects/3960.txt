@@ -1,5 +1,5 @@
 id=3960
-Collapsed Mine with Ore - Hungry Work# +hungryWork10
+Ì®ËúµÄÌú¿ó¾®ºÍÌú¿óÊ¯
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

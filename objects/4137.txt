@@ -1,5 +1,5 @@
 id=4137
-Scrap Piston Block# +becomeUse12
+废弃柴油机活塞体# 成为用途12
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

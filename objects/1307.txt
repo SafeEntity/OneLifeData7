@@ -1,5 +1,5 @@
 id=1307
-Stack of Bean Tacos# +contFoodDish
+Ò»µþ¶¹Ëþ¿É
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

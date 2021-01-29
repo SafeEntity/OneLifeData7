@@ -1,5 +1,5 @@
 id=3963
-Ready Well Site# +famUse100 +tapoutTrigger,40,40,160,0
+搭建完成的井址
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

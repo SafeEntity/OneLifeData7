@@ -1,5 +1,5 @@
 id=3714
-Sulfur Bottle with Funnel
+´øÂ©¶·µÄÒ»Æ¿Áò»Ç
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

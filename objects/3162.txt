@@ -1,5 +1,5 @@
 id=3162
-Tipped Horse-Drawn Tire Cart# just tipped
+·­µ¹µÄÂÖÌ¥Âí³µ
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=13

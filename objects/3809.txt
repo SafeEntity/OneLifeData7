@@ -1,5 +1,5 @@
 id=3809
-Track Door with Cart# moving North silent
+矿车和木门#向北静止
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

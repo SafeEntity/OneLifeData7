@@ -1,5 +1,5 @@
 id=4044
-Newcomen Hammer with Charcoal# justAdded
+装满木炭的纽科门蒸汽锻造锤
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

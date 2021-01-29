@@ -1,5 +1,5 @@
 id=1474
-Bread Slice on Clay Plate# +contFoodDish
+盘子上的切片面包
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
 id=1813
-Dry Yew Sapling in Bowl
+¸ÉµÄ×ÏÉ¼Ê÷Ê÷ÃçÅèÔÔ
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

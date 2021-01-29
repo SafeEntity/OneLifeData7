@@ -1,5 +1,5 @@
 id=3958
-Deep Pit with Ore - Hungry Work# +hungryWork10
+ÉîÌú¿ó¿ÓºÍÌú¿óÊ¯
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

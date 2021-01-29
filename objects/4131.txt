@@ -1,5 +1,5 @@
 id=4131
-Scrap Piston Head# +becomeUse6
+废弃柴油机活塞头 # 成为用途6
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
